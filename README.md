@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Bruno Bernardo, estudante de Sistemas de Informação👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offbrn)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offbrn&show_icons=true&theme=dark)
 
 
 <div style="display: inline_block"><br>

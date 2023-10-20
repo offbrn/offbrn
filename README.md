@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Bruno e bem vindo(a) ao meu Github 🤓👋
 
 <ul>
-  <li>💻 Auxiliar de Sistemas</li>
+  <li>💻 Analista de Sistemas</li>
   <li>🎓 Estudante de Sistemas de Informação - Uninove</li>
 </ul>
 

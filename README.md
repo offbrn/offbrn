@@ -2,7 +2,6 @@
 
 <ul>
   <li>💻 Analista de Sistemas</li>
-  <li>🎓 Estudante de Sistemas de Informação 5/8 - Uninove</li>
 </ul>
 
 ##
